@@ -1,0 +1,1 @@
+Due to personal nature of this project, I do not intend to accept any pull requests or issues. However, you are welcome to fork this repository if you want to make a similar project.
